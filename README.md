@@ -1,2 +1,3 @@
 # Unix-Shell
 Unix shell, command line interpreter that provides CLI, to control and perform execution of system.
+Unix shell, command line interpreter that provides CLI, command line interpreter to control and perform execution of system. A shell in a Linux operating system takes input from you in the form of commands, processes it, and then gives an output. Terminal enables users to let control and decide upon particular execution. Unix shell is a powerful tool allowing users to perform complex tasks. Unix shell enables users to perform wide range of advanced computing. Unix operating systems have built in terminal to write commands.  
